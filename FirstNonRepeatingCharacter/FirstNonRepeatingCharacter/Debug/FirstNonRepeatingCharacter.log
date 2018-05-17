@@ -1,5 +1,0 @@
-﻿  stdafx.cpp
-  FirstNonRepeatingCharacter.cpp
-c:\users\tyler\documents\visual studio 2015\projects\firstnonrepeatingcharacter\firstnonrepeatingcharacter\firstnonrepeatingcharacter.cpp(11): warning C4018: '<': signed/unsigned mismatch
-c:\users\tyler\documents\visual studio 2015\projects\firstnonrepeatingcharacter\firstnonrepeatingcharacter\firstnonrepeatingcharacter.cpp(17): warning C4018: '<': signed/unsigned mismatch
-  FirstNonRepeatingCharacter.vcxproj -> c:\users\tyler\documents\visual studio 2015\Projects\FirstNonRepeatingCharacter\Debug\FirstNonRepeatingCharacter.exe

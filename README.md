@@ -1,8 +1,1 @@
-"# FirstNonRepeatingCharacter" 
-"# firstDuplicate" 
-"# firstDuplicate" 
-"# firstDuplicate" 
-"# firstDuplicate" 
-"# firstDuplicate" 
-"# firstDuplicate" 
 "# firstDuplicate" 
